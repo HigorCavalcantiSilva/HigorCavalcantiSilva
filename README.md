@@ -11,9 +11,9 @@
 
 ### **Knowledge**
 
-- ### I'm currently learning JavaScript, Node.js, Vue.js, React.js, Quasar, Bootstrap, jQuery and database languages ​​like MySQL and MongoDB.
+- #### I'm currently learning JavaScript, Node.js, Vue.js, React.js, Quasar, Bootstrap, jQuery and database languages ​​like MySQL and MongoDB.
 
-- ### Soon I intend to deepen existing knowledge in PHP, Java, C# and Python
+- #### Soon I intend to deepen existing knowledge in PHP, Java, C# and Python
 ---------------------------------------------------------
 #### I am a nice person and with good communication. 🙂😉
 
