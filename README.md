@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello World! 😁
 
-<!--
-**HigorCavalcantiSilva/HigorCavalcantiSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Higor Cavalcanti Silva and I live in Brazil!
 
-Here are some ideas to get you started:
+### I'm student of technology and I really like what I do. 💻🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Since I was a little boy I used computers and I discovered that my main skill was to program. 💻
+---------------------------------------------------------
+## **As a hobby, I like:**
+- ### Play Musical Keyboard 🎹🎧;
+- ### Play Guitar 🎸;
+- ### Play Video Game 🎮;
+- ### Play with my dog 🐶;
+---------------------------------------------------------
+### **I study and practice a lot so that one day I can become a Full-Stack, and thus bring great results to the company I will work for.**
+---------------------------------------------------------
+## **Knowledge**
+
+- ## I'm currently learning JavaScript, Node.js, Vue.js, React.js, Quasar, Bootstrap, jQuery and database languages ​​like MySQL and MongoDB.
+
+- ## Soon I intend to deepen existing knowledge in PHP, Java, C# and Python
+---------------------------------------------------------
+## I am a nice person and with good communication. 🙂😉
+
+## I hope you like my portfolio here on GitHub.
+--------------------------------------------------------
+
+[<img src="https://news.comschool.com.br/wp-content/uploads/2017/12/icone-instagram-e1512741581979.jpg" width="160">
+](https://www.instagram.com/dev_hicker/)
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCNxl5KiX66IxogBo33kSnfw?view_as=subscriber)](https://www.youtube.com/channel/UCNxl5KiX66IxogBo33kSnfw?view_as=subscriber)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)](https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)
