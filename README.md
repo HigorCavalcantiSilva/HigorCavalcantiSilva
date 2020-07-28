@@ -8,7 +8,7 @@ I study and practice a lot so that one day I can become a Full-Stack, and thus b
 
 **As a hobby, I like:**
 
-- Play Musical Keyboard (🎹🎧), Play Guitar (🎸)Play Video Game (🎮), Play with my dog (🐶)
+- Play Musical Keyboard(🎹🎧), Play Guitar(🎸), Play Video Game(🎮), Play with my dog(🐶)
 
  **Knowledge**
 
