@@ -1,18 +1,13 @@
 # Hello World! 😁
 
-##### My name is Higor Cavalcanti Silva and I live in Brazil!
+#### My name is Higor Cavalcanti Silva and I live in Brazil!
 
-##### I'm student of technology and I really like what I do. 💻🤓
-
-##### Since I was a little boy I used computers and I discovered that my main skill was to program. 💻
+#### I'm student of technology and I really like what I do. 💻🤓 ... Since I was a little boy I used computers and I discovered that my main skill was to program. 💻
 ---------------------------------------------------------
 ### **As a hobby, I like:**
-- ##### Play Musical Keyboard 🎹🎧;
-- ##### Play Guitar 🎸;
-- ##### Play Video Game 🎮;
-- ##### Play with my dog 🐶;
+- #### Play Musical Keyboard (🎹🎧), Play Guitar (🎸)Play Video Game (🎮), Play with my dog (🐶)
 ---------------------------------------------------------
-##### **I study and practice a lot so that one day I can become a Full-Stack, and thus bring great results to the company I will work for.**
+#### **I study and practice a lot so that one day I can become a Full-Stack, and thus bring great results to the company I will work for.**
 ---------------------------------------------------------
 ### **Knowledge**
 
