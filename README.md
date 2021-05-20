@@ -6,7 +6,7 @@ My nickname is Higor Hicker 🤓.
 
 I'm student of technology and I really like what I do. 💻🤓 ... Since I was a little boy I used computers and I discovered that my main skill was to program. 💻
 
-I study and practice a lot so that one day I can become a Full-Stack, and thus bring great results to the company I will work for.
+I study and practice a lot so that one day I can become a Full-Stack. I currently work as a developer at G2i.
 
 **As a hobby, I like:**
 
