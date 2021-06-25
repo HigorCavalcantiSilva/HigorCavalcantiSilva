@@ -29,4 +29,11 @@ I hope you like my portfolio here on GitHub.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)](https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)
 
 <!--START_SECTION:waka-->
+```text
+PHP          16 hrs 20 mins  ████████████▒░░░░░░░░░░░░   49.43 % 
+HTML         9 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.98 % 
+JavaScript   6 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 % 
+CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+```
 <!--END_SECTION:waka-->
