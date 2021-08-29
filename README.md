@@ -32,10 +32,10 @@ I hope you like my portfolio here on GitHub.
 
 <!--START_SECTION:waka-->
 ```text
-PHP          14 hrs 16 mins  ███████████▒░░░░░░░░░░░░░   44.99 % 
-HTML         12 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   39.57 % 
-JavaScript   3 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+PHP          13 hrs 46 mins  ██████████▓░░░░░░░░░░░░░░   42.24 % 
+HTML         13 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   41.24 % 
+JavaScript   3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+CSS          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
