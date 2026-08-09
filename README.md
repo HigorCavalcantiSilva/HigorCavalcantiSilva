@@ -22,8 +22,8 @@ I am a nice person and with good communication. 🙂😉
 
 I hope you like my portfolio here on GitHub.
 
-[<img src="https://news.comschool.com.br/wp-content/uploads/2017/12/icone-instagram-e1512741581979.jpg" width="160">
-](https://www.instagram.com/dev_hicker/)
+<!-- [<img src="https://news.comschool.com.br/wp-content/uploads/2017/12/icone-instagram-e1512741581979.jpg" width="160">
+](https://www.instagram.com/dev_hicker/)-->
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCNxl5KiX66IxogBo33kSnfw?view_as=subscriber)](https://www.youtube.com/channel/UCNxl5KiX66IxogBo33kSnfw?view_as=subscriber)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)](https://www.linkedin.com/in/higor-cavalcanti-silva-b645aa174/)
